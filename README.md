@@ -41,8 +41,8 @@ mcp-databricks/
 
 1) **Clone the repo**
 ```bash
-git clone https://github.com/ignitedata-ai/IgniteTalks-repo.git
-cd IgniteTalks-repo/mcp_databricks_Aug_21_2025
+git clone https://github.com/PraveenDantam183/MCP_Dbricks_Demo.git
+cd MCP_Dbricks_Demo
 ```
 
 2) **Create virtual environment**
