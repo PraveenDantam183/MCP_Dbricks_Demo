@@ -45,7 +45,7 @@ mcp-databricks/
 ### 1) Clone & enter the project
 ```bash
 git clone <your-fork-or-repo-url>.git
-cd mcp_databricks_demo
+cd MCP_Dbricks_Demo
 
 ```
 
