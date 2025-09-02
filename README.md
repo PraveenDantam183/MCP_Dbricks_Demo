@@ -118,4 +118,4 @@ This creates:
 
 ## 👨‍💻 Authors
 
-Demo prepared by **Praveen** and team for Ignite Talks 🚀
+Demo prepared by **Praveen** for Ignite Talks 🚀
